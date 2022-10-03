@@ -17,8 +17,8 @@ bot = WechatyBuilder.build({
 
 bot.use(
         WechatyWebPanelPlugin({
-            apiKey: '***',
-            apiSecret: '****',
+            apiKey: 'cd14161840b28b31f319fcae68313bda4ba78564',
+            apiSecret: '772c7dd30c0e0a22d1c4b21d9769f52cbc8541eb',
         })
     )
 bot.start()
